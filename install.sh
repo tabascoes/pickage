@@ -4,7 +4,7 @@ function name()
     # info ok/error/info/section
     status=$1
     text=$2
-    if [ $status == 'ok'] 
+    if [ $status == 'ok' ] 
     then
         echo \e "[  OK  ] $text"
     fi
