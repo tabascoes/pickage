@@ -1,5 +1,7 @@
 # pickage
 <u>Pi</u> \* <u>pick</u> \* pa<u>ckage</u> = **pickage**  
+Let’s pick package on RasPi!
+
 CodeFactor review [![CodeFactor](https://www.codefactor.io/repository/github/tabascoes/pickage/badge)](https://www.codefactor.io/repository/github/tabascoes/pickage)
 
 <details>
