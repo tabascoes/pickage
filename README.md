@@ -1,5 +1,6 @@
 # pickage
-<u>Pi</u> \* <u>pick</u> \* pa<u>ckage</u> = **pickage**
+<u>Pi</u> \* <u>pick</u> \* pa<u>ckage</u> = **pickage**  
+CodeFactor review [![CodeFactor](https://www.codefactor.io/repository/github/tabascoes/pickage/badge)](https://www.codefactor.io/repository/github/tabascoes/pickage)
 
 <details>
   <summary>-= English README.md =-</summary>
@@ -12,7 +13,7 @@
     <details>
     <summary>How to install?</summary>
     
-     curl -sSL example.com | sudo bash
+     curl -sSL git.io/JaKqw | sudo bash
   </details>
 </details>
 
@@ -27,6 +28,6 @@
     <details>
     <summary>簡単インストール方法</summary>
     
-     curl -sSL example.com | sudo bash
+     curl -sSL git.io/JaKqw | sudo bash
   </details>
 </details>
