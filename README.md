@@ -3,5 +3,6 @@
 
 <details>
   <summary>How to install?</summary>
-    curl -sSL example.com | sudo bash
+    
+     curl -sSL example.com | sudo bash
 </details>
