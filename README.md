@@ -2,8 +2,15 @@
 <u>Pi</u> \* <u>pick</u> \* pa<u>ckage</u> = **pickage**  
 Let’s pick package on RasPi!
 
-CodeFactor review [![CodeFactor](https://www.codefactor.io/repository/github/tabascoes/pickage/badge)](https://www.codefactor.io/repository/github/tabascoes/pickage)
+### CodeFactor review  
+[![CodeFactor](https://www.codefactor.io/repository/github/tabascoes/pickage/badge)](https://www.codefactor.io/repository/github/tabascoes/pickage)
 
+### Detail
+ - GUI Application
+ - Discord/GitHub Support
+ - Automate update
+
+### Description
 <details>
   <summary>-= English README.md =-</summary>
     pickage is the software to <b>install package easily</b> on Raspberry Pi. 
@@ -15,7 +22,7 @@ CodeFactor review [![CodeFactor](https://www.codefactor.io/repository/github/tab
     <details>
     <summary>How to install?</summary>
     
-     curl -sSL git.io/JaKqw | sudo bash
+    curl -sSL git.io/JaKqw | sudo bash
   </details>
 </details>
 
@@ -30,6 +37,6 @@ CodeFactor review [![CodeFactor](https://www.codefactor.io/repository/github/tab
     <details>
     <summary>簡単インストール方法</summary>
     
-     curl -sSL git.io/JaKqw | sudo bash
+    curl -sSL git.io/JaKqw | sudo bash
   </details>
 </details>
