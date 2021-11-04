@@ -2,6 +2,8 @@
 <u>Pi</u> \* <u>pick</u> \* pa<u>ckage</u> = **pickage**  
 Let’s pick package on RasPi!
 
+This software made with [Electron](https://electronjs.org/)!
+
 ### CodeFactor review  
 [![CodeFactor](https://www.codefactor.io/repository/github/tabascoes/pickage/badge)](https://www.codefactor.io/repository/github/tabascoes/pickage)
 
