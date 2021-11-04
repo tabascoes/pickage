@@ -1,0 +1,9 @@
+"build": {
+    "appId": "com.electron.worc",
+    "mac": {
+        "target": "dmg"
+    },
+    "win": {
+        "target": "exe"
+    },
+}
